@@ -1,0 +1,10 @@
+# Private credentials - do not commit
+secrets.h
+
+# Arduino / IDE generated files
+build/
+*.elf
+*.bin
+*.hex
+.vscode/
+.idea/
